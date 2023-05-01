@@ -2,6 +2,7 @@
 import '../styles/global.css'
 const {frontmatter} = Astro.props;
 ---
+
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -13,8 +14,7 @@ const {frontmatter} = Astro.props;
     <body>
         <h1>{frontmatter.title}</h1>
         <a href="/">Home</a>
-        <a href="/blog">Blog</a>
-        <a href="/about">About</a>
+        <a href="/sdlog">sdLog</a>
         <p>Written by {frontmatter.author}</p>
 
         <slot />
