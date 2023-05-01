@@ -71,7 +71,7 @@ I am just gonna fill the rest of the post with the pics of the event in almost c
 <center>
 	<img src="/assets/fossmeet23/IMG_20230212_214932.jpg">
 	</br>
-	A few of our super seniors (B18CS) came for FOSSMeet. They were old FOSSCell guys. Took us out for food. Me and Cliford got a chance to meet Edwin. He was the OG SSL admin who had setup the cloud infrastructure for SSL.
+	A few of our super seniors (B17CS) came for FOSSMeet. They were old FOSSCell guys. Took us out for food. Me and Cliford got a chance to meet Edwin. He was the OG SSL admin who had setup the cloud infrastructure for SSL.
 </center>
 </br>
 
