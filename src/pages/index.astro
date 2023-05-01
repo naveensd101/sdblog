@@ -1,19 +1,12 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
+const pageTitle = "Naveen";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-    <link rel="stylesheet" href="/assets/style.css" />
-		<title>Naveen</title>
-	</head>
-	<body>
-		<h1>Naveen</h1>
-		<a href="/">Home</a>
-		<a href="/blog">Blog</a>
-    <p>Hi this is me. You can find almost all of my coding work in <a href="https://github.com/naveensd101/">my github</a></p>
-	</body>
-</html>
+<BaseLayout pageTitle={pageTitle}>
+	<p>
+		Hi this is me. You can find almost all of my coding work in <a
+			href="https://github.com/naveensd101/">my github</a
+		>
+	</p>
+</BaseLayout>

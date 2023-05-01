@@ -1,22 +1,12 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
+const pageTitle = "Blog";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-    <link rel="stylesheet" href="/assets/style.css" />
-		<title>Naveen</title>
-	</head>
-	<body>
-		<h1>Blog</h1>
-		<a href="/">Home</a>
-		<a href="/blog">Blog</a>
-    <p>I will keep my blogs here</p>
-    </ul>
-      <li><a href="/posts/post-1">First page<a></a></li>
-    <ul>
-	</body>
-</html>
+<BaseLayout pageTitle={pageTitle}>
+	<p>I will keep my blogs here</p>
+	<ul>
+		<li><a href="/posts/post-1">First page<a></a></a></li>
+		<li><a href="/posts/post-2">Template post from astro<a></a></a></li>
+	</ul>
+</BaseLayout>

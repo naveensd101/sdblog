@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=JetBrains Mono');
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+html {
+    background-color: #181a1b;
+    font-family: 'JetBrains Mono', sans-serif;
+    font-weight: 100;
+    color: white;
+}
+
+.astro-code {
+    font-family: 'JetBrains Mono';
+    padding: 2%;
+}
+
+code {
+    font-family: 'JetBrains Mono';
+}
+
+a {
+    color: hotpink;
+}
+
+body {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 80ch;
+    padding: 1rem;
+    line-height: 1.5;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 1rem 0;
+    font-size: 2.5rem;
+}
