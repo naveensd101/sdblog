@@ -83,6 +83,12 @@ The first keynote speaker, [Jessica Greene](https://www.linkedin.com/in/jessica0
 
 ## Coding with Minecraft
 
+<center>
+    <img src="/assets/pycon23/minecraft.jpg">
+    </br>
+    Python and Minecraft
+</center>
+
 [Anand's](https://www.s-anand.net/blog/programming-minecraft-with-websockets/) presentation on Minecraft Coding was quite interesting. He connected a Minecraft instance to his Python code, enabling him to procedurally generate anything buildable within Minecraft. Considering Minecraft has Turing Complete components, this would be a super power for creative coding. His use of ChatGPT to construct much of the boilerplate code was interesting, though he pointed out its limitations when dealing with complex tasks.
 
 ## FoxDot - Music and Python
@@ -90,13 +96,17 @@ The first keynote speaker, [Jessica Greene](https://www.linkedin.com/in/jessica0
 [Sangarshanan's](https://github.com/Qirky/FoxDot) presentation on creating music with Python was the most “fun” talk. His team at FoxDot is developing an open-source framework to program music. He even live-coded a short music piece, which was quite entertaining. The following youtube clip is taken from their website.
 
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CXrkq7u69vU?si=CA6xA0_-oc4Hnivq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="youtubeBox">
+        <iframe class="video" src="https://www.youtube.com/embed/CXrkq7u69vU?si=CA6xA0_-oc4Hnivq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
 </center>
 
 Unrelated but an old YouTube video that I had watched on “the art of coding”. I have rewatched this multiple times. 1hr long but worth the watch.
 
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6avJHaC3C2U?si=LFo3tMqF0dPWjrZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="youtubeBox">
+        <iframe class="video" src="https://www.youtube.com/embed/6avJHaC3C2U?si=LFo3tMqF0dPWjrZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
 </center>
 
 ## FastAPI
