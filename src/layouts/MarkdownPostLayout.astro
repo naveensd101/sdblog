@@ -13,10 +13,10 @@ const {frontmatter} = Astro.props;
     </head>
     <body>
         <h1>{frontmatter.title}</h1>
-        <a href="/">Home </a>
-        <a href="/sdlog">Blog </a>
+        <a href="/">Home</a>
+        <a href="/sdlog">Blog</a>
         <!-- <a href="/shorts">Shorts</a> -->
-        <p>Written by {frontmatter.author} @ {frontmatter.date}</p>
+        <p>{frontmatter.date} by {frontmatter.author}</p>
 
         <slot />
         <script src="https://giscus.app/client.js"
