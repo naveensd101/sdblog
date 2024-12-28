@@ -25,3 +25,7 @@ pnpm-debug.log*
 
 .vscode/
 .firebase/*
+
+publish.sh
+
+deno.lock
