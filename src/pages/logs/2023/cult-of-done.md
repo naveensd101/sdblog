@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: ../../../layouts/MarkdownPostLayout.astro
 title: Cult Of Done
 author: nsd
 date: Thu Nov 30 12:46:41 IST 2023

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: ../../../layouts/MarkdownPostLayout.astro
 title: PyCon '23
 author: nsd
 date: Tue Oct 17 23:29:57 IST 2023
