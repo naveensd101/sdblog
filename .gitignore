@@ -29,3 +29,7 @@ pnpm-debug.log*
 publish.sh
 
 deno.lock
+
+# deployment stuff
+docker-compose.yml
+Dockerfile
