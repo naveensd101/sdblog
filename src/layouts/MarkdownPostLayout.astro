@@ -1,6 +1,6 @@
 ---
-import '../styles/global.css'
-const {frontmatter} = Astro.props;
+import "../styles/global.css";
+const { frontmatter } = Astro.props;
 ---
 
 <html lang="en">
@@ -15,26 +15,11 @@ const {frontmatter} = Astro.props;
     <body>
         <h1>{frontmatter.title}</h1>
         <a href="/">Home</a>
-        <!-- <a href="/shorts">Shorts</a> -->
+        <a href="/about">About</a>
         <p>{frontmatter.date} by {frontmatter.author}</p>
 
         <slot />
-        <script src="https://giscus.app/client.js"
-        data-repo="naveensd101/sdblog"
-        data-repo-id="R_kgDOJWVUrQ"
-        data-category="blog comments"
-        data-category-id="DIC_kwDOJWVUrc4CWUQX"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="transparent_dark"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+        <script defer src="https://comments.naveensd.com/comentario.js"></script>
+        <comentario-comments></comentario-comments>
     </body>
 </html>
-
