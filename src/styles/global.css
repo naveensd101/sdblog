@@ -64,3 +64,9 @@ img {
 a+a {
     margin-left: 10px;
 }
+
+.right-aligned-block {
+    margin-left: auto;
+    margin-right: 0; /* Optional, but good practice */
+    width: fit-content; /* Optional: adjust width to fit content, so it doesn't span full width */
+}
