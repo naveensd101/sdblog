@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: November 2025
+title: November 2025, DevOps and Yellowface
 author: nsd
 date: 2 Jan 2026
 ---
