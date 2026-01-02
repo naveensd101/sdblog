@@ -38,7 +38,7 @@ Progress update—as of 2nd Jan 2026—my advent of code repository is marked as
 
 I bought the One by Wacom writing tablet. 
 
-Trying to write on this feels like write with your left hand in 3rd person view.
+Trying to write on this feels like writing with your left hand in 3rd person view.
 
 My goal with this purchase is to use digital paper (over physical notebooks) to do rough work for my coding projects, like the advent of code challenge. 
 
@@ -71,4 +71,4 @@ Finished Shadows of self. The ending of the book was average, the reveal at the 
     </br>
 </center>
 
-Met a stranger at the library. She recommended me The Heiress by Rachel Hawkins. The book was interesting. Pacing was awesome, but the ending was not explosive enough for a thriller books.
+Met a stranger at the library. She recommended me The Heiress by Rachel Hawkins. The book was interesting. Pacing was awesome, but the ending was not explosive enough for a thriller book.
