@@ -39,8 +39,11 @@ h1 {
 }
 
 img {
-    max-height: 500px;
-    max-width: 80%;
+    display: block;
+    max-height: 500px; /* Adjust this value to your preference */
+    width: auto;
+    height: auto;
+    margin: 2rem auto;
 }
 
 .youtubeBox {
