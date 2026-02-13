@@ -41,6 +41,7 @@ h1 {
 img {
     display: block;
     max-height: 500px; /* Adjust this value to your preference */
+    max-width: 90%;
     width: auto;
     height: auto;
     margin: 2rem auto;
