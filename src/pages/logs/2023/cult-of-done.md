@@ -2,7 +2,7 @@
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: Cult Of Done
 author: nsd
-date: Thu Nov 30 12:46:41 IST 2023
+date: Thu Nov 30 12:46:41 UTC+05:30 2023
 
 ---
 
