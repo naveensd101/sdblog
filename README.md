@@ -16,3 +16,8 @@ All commands are run from the root of the project, from a terminal:
 ```
 deno run -A npm:@astrojs/upgrade
 ```
+
+## RSS feed issues
+
+- Date should not have time, RSS feed xml generation does not work with IST dates
+- For blog markdown flies, only use lower case letters and hyphens. Upper case messes up the RSS feed xml generator
