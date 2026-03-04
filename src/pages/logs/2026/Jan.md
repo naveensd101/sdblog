@@ -1,5 +1,5 @@
 ---
-layout: ../../../../layouts/MarkdownPostLayout.astro
+layout: ../../../layouts/MarkdownPostLayout.astro
 title: Jan 2026, Boss battle
 author: nsd
 date: 13 Feb 2026

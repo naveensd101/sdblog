@@ -1,5 +1,5 @@
 ---
-layout: ../../../../layouts/MarkdownPostLayout.astro
+layout: ../../../layouts/MarkdownPostLayout.astro
 title: Feb 2026, Separation of concerns
 author: nsd
 date: 1 Mar 2026
