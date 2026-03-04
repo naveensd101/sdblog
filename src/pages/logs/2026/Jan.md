@@ -7,7 +7,7 @@ date: 13 Feb 2026
 
 ## Defeating the old boss
 
-![reading-ml.jpg](../../../../assets/2026/Jan/reading-ml.jpg)
+![reading-ml.jpg](../../../assets/2026/Jan/reading-ml.jpg)
 
 Malayalam has always been an elusive language for me. 
 
@@ -25,11 +25,11 @@ It was a decent book, with an emotion focused plot coupled with socially relevan
 
 ## Stats from 2025 Reading
 
-![storygraph-stats-2025.jpg](../../../../assets/2026/Jan/storygraph-stats-2025.jpg)
+![storygraph-stats-2025.jpg](../../../assets/2026/Jan/storygraph-stats-2025.jpg)
 
 The reader me was extremely productive in 2025. I had two five star reads last year.
 
-![storygraph-wrap-2025.jpg](../../../../assets/2026/Jan/storygraph-wrap-2025.jpg)
+![storygraph-wrap-2025.jpg](../../../assets/2026/Jan/storygraph-wrap-2025.jpg)
 
 ## Progress on other projects
 
