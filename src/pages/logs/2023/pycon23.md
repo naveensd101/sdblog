@@ -2,7 +2,7 @@
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: PyCon '23
 author: nsd
-date: Tue Oct 17 23:29:57 IST 2023
+date: Tue Oct 17 23:29:57 UTC+05:30 2023
 
 ---
 

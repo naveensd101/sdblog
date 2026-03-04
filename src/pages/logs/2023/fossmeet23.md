@@ -2,7 +2,7 @@
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: FOSSMeet '23
 author: nsd
-date: long long back
+date: 12 Feb 2023
 ---
 <center>
     <img src="/assets/fossmeet23/grppic.webp">
