@@ -1,8 +1,6 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 
-// https://naveensd.com/logs/2025/Dec/
-
 export async function GET(context) {
   const blog = await getCollection('blogs');
   const items = blog
@@ -20,7 +18,7 @@ export async function GET(context) {
 
   return rss({
     title: 'Naveen’s blog',
-    description: 'My humble attempt in keeping my broadcasts away from single point of distribution failure',
+    description: 'Recent blogs from Naveen',
     site: context.site,
     items,
     customData: `<language>en-us</language>`,
