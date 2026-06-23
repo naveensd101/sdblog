@@ -2,7 +2,6 @@
 dist/
 # generated types
 .astro/
-.deno.lock
 
 # dependencies
 node_modules/
@@ -27,8 +26,6 @@ pnpm-debug.log*
 .firebase/*
 
 publish.sh
-
-deno.lock
 
 # deployment stuff
 docker-compose.yml
