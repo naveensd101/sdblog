@@ -16,11 +16,10 @@ const { frontmatter } = Astro.props;
         <h1>{frontmatter.title}</h1>
         <a href="/">Home</a>
         <a href="/about">About</a>
+        <a href="/rss.xml">RSS Feed</a>
         <p>{frontmatter.date} by {frontmatter.author}</p>
 
         <slot />
-        <center>
-            ∎ ∎ ∎
-        </center>
+        <center> ∎ ∎ ∎ </center>
     </body>
 </html>
