@@ -21,7 +21,7 @@ The overarching theme for this month was focusing on building small habits over 
 
 Shelter, was easy, I stay in an NYU managed apartment. So safety is not a big concern. 
 
-![View out of my hostel](../../../assets/2026/Sep/home.jpg)
+![View out of my hostel](../../../assets/2026/Sep/home.JPG)
 
 Exercise: 
 I have been hitting the gym >3 times a week. If I dont feel motivated, I go for a walk around [washington square park](https://en.wikipedia.org/wiki/Washington_Square_Park#/media/File:Washington_Square_Arch-Isabella.jpg). Exercise coupled with my calorie deficit diet; I believe I am the healthiest I have ever been in my adult life. 
